@@ -27,7 +27,7 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: Shehan Nijanth k
+### Name: Nijanth k
 ### Register Number: 212223240186
 
 ```python
